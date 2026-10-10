@@ -1,0 +1,6 @@
+{
+  "name": "AI Powered Interview Simulator",
+  "description": "Realistic adaptive AI mock interview simulator with real-time answer evaluation, transparent scoring, resume analysis, question bank, and personalized study roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
